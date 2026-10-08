@@ -125,3 +125,5 @@ $ docker compose exec app poetry run ruff format .
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
+## Making this change intentionally to test
